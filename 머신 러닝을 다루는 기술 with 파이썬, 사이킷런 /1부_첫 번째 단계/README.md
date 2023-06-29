@@ -1,5 +1,5 @@
 # 1부_첫 번째 단계
-## 1장_학습이란?
+## [1장_학습이란?](https://github.com/songchane/sophomore_Summer_vacation/blob/main/%EB%A8%B8%EC%8B%A0%20%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%EA%B8%B0%EC%88%A0%20with%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%2C%20%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0%20/1%EB%B6%80_%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%EB%8B%A8%EA%B3%84/1%EC%9E%A5_%ED%95%99%EC%8A%B5%EC%9D%B4%EB%9E%80%3F.md)
 - 1.1 컴퓨터는 학습할 수 있을까?
 - 1.2 범위, 용어, 예측, 데이터
 - 1.3 머신 러닝에 기계 집어넣기
